@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1496819823 source:c:\users\chester\desktop\scheme\palone\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<cstring>
+	<ctype.h>
+	<iostream>
+	<string.h>
+	<string>
+
