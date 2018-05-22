@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1497528513 source:c:\users\chester\desktop\scheme\paltwo\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<cstring>
+	<ctype.h>
+	<iostream>
+	<string.h>
+	<string>
+	<vector>
+
